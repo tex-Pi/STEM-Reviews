@@ -1,10 +1,10 @@
 <h1>Pre-Ap Chemistry Reviews</h1>
 
 <h2>All ions and element review</h2>
-<a href="https://dashboard.blooket.com/set/6a7f70059e73c880eaa1e9c8" target="_blank">https://dashboard.blooket.com/set/6a7f70059e73c880eaa1e9c8</a>
-  <div>
+https://dashboard.blooket.com/set/6a7f70059e73c880eaa1e9c8
+<div>
 <h2>Multiple Choice Ion Gimkit</h2>
-<a href=>
+https://www.gimkit.com/practice/6ab67d4606055016b536ef53
 <div>
 <h2>Multiple Choice and Open Ended Gimkit</h2>
 https://www.gimkit.com/practice/6ac3c70f6e7ee25a5ce16ca7
